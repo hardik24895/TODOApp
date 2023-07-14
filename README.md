@@ -1,4 +1,10 @@
 # TODOApp
+MVVM
+Hilt
+FLow
+Coroutine
+LiveData
+Room
 ![image](https://github.com/hardik24895/TODOApp/assets/17133671/121d1030-c6d9-4a47-b74b-d23330abe640)
 ![image](https://github.com/hardik24895/TODOApp/assets/17133671/adfa29e7-8854-429f-8a62-8a2667d00128)
 ![image](https://github.com/hardik24895/TODOApp/assets/17133671/e737a7b5-e8ca-4462-b0b9-ec1b0b013a88)
