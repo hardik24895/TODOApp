@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TODOApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="new_note">New Note</string>
+    <string name="no">NO</string>
+    <string name="yes">Yes</string>
+    <string name="warning">Warning</string>
+    <string name="are_you_want_to_sure_delete_this_note">Are you want to sure delete this note</string>
+    <string name="press_back_again_to_leave_the_app">Press back again to leave the app.</string>
+</resources>
