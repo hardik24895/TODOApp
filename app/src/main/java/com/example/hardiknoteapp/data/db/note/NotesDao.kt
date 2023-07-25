@@ -1,6 +1,4 @@
 package com.example.hardiknoteapp.data.db.note
-
-import androidx.lifecycle.LiveData
 import androidx.room.*
 import com.example.hardiknoteapp.data.modal.NoteModal
 
